@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-naveed3/" target="_blank">
-    <img src="https://github.com/Naveed-Baloch/Naveed-Baloch/assets/83871075/f798bdec-67b1-40cd-bb83-ea5f6e396fc3" style="width: 100%; max-width: 1000px; height: auto;" alt="Profile Image">
+    <img src="https://github.com/Naveed-Baloch/Naveed-Baloch/assets/83871075/f798bdec-67b1-40cd-bb83-ea5f6e396fc3" style="width: 100%; max-width: 1000px; height: auto;" alt="Naveed-Baloch-LinkedIn">
   </a>
 </p>
 
@@ -14,9 +14,9 @@
     <img src="https://github-readme-stats.vercel.app/?user=naveed-baloch&disable_animations=true" alt="naveed-baloch"/>
   </picture> 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=naveed-baloch&show=reviews&hide=contribs&show_icons=true&hide_rank=true&card_width=300px&locale=en&disable_animations=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=naveed-baloch&show=reviews&hide=contribs&show_icons=true&hide_rank=true&card_width=300px&locale=en&theme=default&disable_animations=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=naveed-baloch&show=reviews&hide=contribs&show_icons=true&hide_rank=true&card_width=300px&locale=en&disable_animations=true" alt="naveed-baloch"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=naveed-baloch&show=reviews&hide=contribs&show_icons=true&hide_rank=true&card_width=250px&locale=en&disable_animations=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=naveed-baloch&show=reviews&hide=contribs&show_icons=true&hide_rank=true&card_width=250px&locale=en&theme=default&disable_animations=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=naveed-baloch&show=reviews&hide=contribs&show_icons=true&hide_rank=true&card_width=250px&locale=en&disable_animations=true" alt="naveed-baloch"/>
   </picture>
 </p>
 
