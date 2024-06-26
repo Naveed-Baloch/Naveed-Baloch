@@ -1,19 +1,25 @@
-<h1 align="center">Hi 👋, I'm Muhammad Naveed</h1>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" style="width: 100%; max-width: 1000px; height: auto;">
+  <a href="https://www.linkedin.com/in/muhammad-naveed3/" target="_blank">
+    <img src="https://github.com/Naveed-Baloch/Naveed-Baloch/assets/83871075/f798bdec-67b1-40cd-bb83-ea5f6e396fc3" style="width: 100%; max-width: 1000px; height: auto;" alt="Profile Image">
+  </a>
 </p>
-<h3 align="center">I develop innovative mobile applications using Compose, Kotlin Multiplatform, and Flutter!</h3>
+
+## My Github Stats
 <p align="center"><img src="https://komarev.com/ghpvc/?username=naveed-baloch&label=Profile%20views&color=brightgreen&style=flat-square&base=3695" alt="naveed-baloch" /></p>
 
-<p align="center"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=naveed-baloch&theme=slateorange&disable_animations=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=naveed-baloch&theme=default&disable_animations=true">
-  <img src="https://github-readme-stats.vercel.app/?user=naveed-baloch&theme=slateorange&disable_animations=true" alt="naveed-baloch"/>
-</picture> <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=naveed-baloch&show=reviews&hide=contribs&show_icons=true&hide_rank=true&card_width=300px&locale=en&theme=slateorange&disable_animations=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=naveed-baloch&show=reviews&hide=contribs&show_icons=true&hide_rank=true&card_width=300px&locale=en&theme=default&disable_animations=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveed-baloch&show=reviews&hide=contribs&show_icons=true&hide_rank=true&card_width=300px&locale=en&theme=slateorange&disable_animations=true" alt="naveed-baloch"/>
-</picture></p>
+<p align="center" style="color: white;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=naveed-baloch&disable_animations=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=naveed-baloch&disable_animations=true">
+    <img src="https://github-readme-stats.vercel.app/?user=naveed-baloch&disable_animations=true" alt="naveed-baloch"/>
+  </picture> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=naveed-baloch&show=reviews&hide=contribs&show_icons=true&hide_rank=true&card_width=300px&locale=en&disable_animations=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=naveed-baloch&show=reviews&hide=contribs&show_icons=true&hide_rank=true&card_width=300px&locale=en&theme=default&disable_animations=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=naveed-baloch&show=reviews&hide=contribs&show_icons=true&hide_rank=true&card_width=300px&locale=en&disable_animations=true" alt="naveed-baloch"/>
+  </picture>
+</p>
+
 
 ## About Me
 
@@ -39,9 +45,9 @@ Transforming ideas into engaging apps since 2021.
   
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=naveed-baloch&show_icons=true&locale=en&layout=compact&theme=slateorange&card_width=700px&disable_animations=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=naveed-baloch&show_icons=true&locale=en&layout=compact&theme=swift&card_width=700px&disable_animations=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=naveed-baloch&show_icons=true&locale=en&layout=compact&theme=default&card_width=700px&disable_animations=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveed-baloch&show_icons=true&locale=en&layout=compact&theme=slateorange&card_width=700px&disable_animations=true" alt="naveed-baloch" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveed-baloch&show_icons=true&locale=en&layout=compact&theme=swift&card_width=700px&disable_animations=true" alt="naveed-baloch" />
   </picture>
 </p>
 
