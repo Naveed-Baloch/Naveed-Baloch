@@ -24,7 +24,7 @@
 ## About Me
 
 - 🌍 Pakistan Resident | **Open To Work** in App Developer roles
-- 🌱 Focused on `Jetpack Compose`, `Coroutines`, `Kotlin Multiplatform`, and `Compose Multiplatform`
+- 🌱 Focused on `Jetpack Compose`, `Kotlin Multiplatform`, `Compose Multiplatform` and `Flutter`.
 
 ## My Android Journey
 
@@ -39,9 +39,9 @@ Transforming ideas into engaging apps since 2021.
 
 ## Skills and Tools
 
-- 🛠️ Programming Languages: Skilled in Kotlin, Java, JavaScript, C & C++.
+- 🛠️ Programming Languages: Skilled in Kotlin, Java, JavaScript, Dart, & C++.
 - 🔄 Frameworks: Experienced with Compose, Kotlin Multiplatform, Flutter, and Node.js.
-- 🔄 Automation: Experienced with CI/CD using Github actions and more. 
+- 🔄 Automation: Experienced with CI/CD using Github actions. 
   
 <p align="center">
   <picture>
