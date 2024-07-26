@@ -53,7 +53,8 @@ Transforming ideas into engaging apps since 2021.
 
 &nbsp;
 
-## Connect & Explore
+## Lets Connect & Explore ![Handshake](https://github.com/user-attachments/assets/62f422ca-c18f-4596-bfec-7f51c2b67e96)
+
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammad--naveed3-blue?logo=linkedin)](https://www.linkedin.com/in/muhammad-naveed3/)
 - [![Email](https://img.shields.io/badge/Email-naveed32001%40gmail.com-red?logo=gmail)](mailto:naveed32001@gmail.com)
